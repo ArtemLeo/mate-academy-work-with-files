@@ -47,6 +47,7 @@ Explanation:
 
 Note:
 The last line of the file may be empty and should not be processed
+
 <img src="README images/0.png" alt="Logo">
 <img src="README images/1.png" alt="Logo">
 <img src="README images/2.png" alt="Logo">
