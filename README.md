@@ -1,4 +1,4 @@
-# Work with files (Mate Academy Task)
+# Work with files - Mate Academy Task 🖐
 
 Implement function `create_report` 
 which will make a report using data from the market after a working day.
